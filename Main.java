@@ -24,9 +24,7 @@ public class Main {
         // Step 7: Check balances
         System.out.println("Remaining Account Balance: ₹" + account.getBalance());
 
-        //public double getRemainingCash() {                        // for check atm available balance after transactions
-          //  return cashDispenser.getAvailableCash();
-        //}
+       
     }
 }
 
